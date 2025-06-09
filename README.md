@@ -1,6 +1,6 @@
 # 📘 CyrusOne Data Center – Brazos River Compliance Tracker
 
-This repository tracks the regulatory compliance status of the CyrusOne DFW10 Data Center located in Bosque County, Texas — a sensitive ecological zone adjacent to the Brazos River, home to **24 endangered species**.
+This repository tracks the regulatory compliance status of the CyrusOne DFW10 Data Center located in Bosque County, Texas — a sensitive ecological zone adjacent to the Brazos River, home to **14 endangered species**.
 
 ---
 
